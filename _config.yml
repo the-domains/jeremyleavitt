@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: jeremy leavitt
+  email: jeremyleavitt@gmail.com
 name: jeremyleavitt
 cta:
   domain: null
